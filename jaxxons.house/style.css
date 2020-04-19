@@ -21,13 +21,16 @@ header {
   display: table;
 }
 a:link {
-color: #800080;
-}
-a:linkvisited {
-color: #880080;
-}
-a {
   color: #800080;
+  text-decoration: none;
+}
+a:visited {
+  color: #880080;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color:#c225b9;
 }
 img {
   border-radius: 7%;
