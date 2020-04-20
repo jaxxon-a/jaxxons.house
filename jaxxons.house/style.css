@@ -4,6 +4,7 @@ body {
   font-size: 100;
   font-family: Courier;
   padding-left: 10%;
+  line-height: 1.2;
 }
 header {
   padding: 10px;
