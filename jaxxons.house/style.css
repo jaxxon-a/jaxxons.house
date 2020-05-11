@@ -32,6 +32,8 @@ a:visited {
 a:hover {
   text-decoration: underline;
   color:#c225b9;
+}
+a:active {
   font-weight: bolder;
 }
 img {
